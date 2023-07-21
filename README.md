@@ -12,7 +12,7 @@ Sou um FullStack Developer :computer:&nbsp; Sempre buscando colaborar e obter no
 <br>Node.js :heavy_check_mark:
 <br>
 <br>
-Trabalhando na <a href="https://totvs.com.br">**TOTVS Goiânia**</a> desde de 2017 com:
+Trabalhando na <a href="https://totvs.com.br">**TOTVS Goiânia**</a> desde de 2021 com:
 <br>:computer: APIs Restfulls
 <br>:electric_plug:Web Scraping e Web Crawling
 
