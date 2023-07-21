@@ -5,14 +5,14 @@
 
 ## Olá pessoal 👋
 Sou um FullStack Developer :computer:&nbsp; Sempre buscando colaborar e obter novos desafios, e ficarei feliz se puder te ajudar em algo nessa minha busca. Estes são os meus conhecimentos
-<br>Node.js :heavy_check_mark:
+
 <br>Java :heavy_check_mark:
-<br>PHP :heavy_check_mark:
 <br>Vue.js :heavy_check_mark:
 <br>React :heavy_check_mark:
+<br>Node.js :heavy_check_mark:
 <br>
 <br>
-Trabalhando na <a href="https://tron.com.br">**Tron Informática**</a> desde de 2017 com:
+Trabalhando na <a href="https://totvs.com.br">**TOTVS Goiânia**</a> desde de 2017 com:
 <br>:computer: APIs Restfulls
 <br>:electric_plug:Web Scraping e Web Crawling
 
